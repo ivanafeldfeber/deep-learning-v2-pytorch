@@ -1,1 +1,15 @@
 .ipynb_checkpoints
+*.zip
+*.pt
+.pt
+
+
+convolutional-neural-networks/cifar-cnn/data/
+intro-to-pytorch/__pycache__/
+project-dog-classification/dogImages/
+project-dog-classification/lfw/
+project-dog-classification/lfw2/
+
+
+convolutional-neural-networks/cifar-cnn/model_cifar.pt
+
